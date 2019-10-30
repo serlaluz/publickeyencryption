@@ -2,6 +2,7 @@
 <h2>This is an example for the laymen to understand how to use public key encryption.</h2>
 
 <h3>How to get started</h3>
+
 1. Download the File(gitclone)
 
 2. Visit website, copy and paste your private key and public key for yourself and another pair for user Bob. 
